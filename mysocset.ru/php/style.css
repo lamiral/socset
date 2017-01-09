@@ -1,0 +1,11 @@
+.register{
+  	width:400px;
+	text-align:right;
+	padding-left:600px;
+	font-size:20px;
+	padding-top:10px;
+}
+.register input{
+	
+	margin-top:20px;
+}
